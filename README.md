@@ -1,3 +1,4 @@
+![logo](https://github.com/Gurpreet3451/Gurpreet3451/blob/main/banner-EkCVd-FFb-transformed.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">Innovative Web Developer | React & JavaScript Aficionado | Tech Problem Solver | Crafting Digital Experiences</h3>
 
